@@ -3,11 +3,13 @@
     padding: 0;
     margin: 0;
 }
-
+/* Body Background color */
 body {
     background-color: #d9dcd6;
 }
+/*  End Body Background color */
 
+/* Header Styling */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -40,7 +42,9 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
+/* End Header Styling */
 
+/* Misc Elements Default Styling */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -49,7 +53,10 @@ a {
 p {
     font-size: 16px;
 }
+/* End Misc Elements Default Styling */
 
+
+/* Hero Div Styling With Image */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,6 +65,9 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+/* End Hero Div Styling With Image */
+
 
 .float-left {
     float: left;
@@ -68,6 +78,8 @@ p {
     float: right;
     margin-left: 25px;
 }
+
+/* Content Styling */
 
 .content {
     width: 75%;
@@ -91,6 +103,11 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* End Content Styling */
+
+
+/* BENEFITS ASIDE ELEMENT STYLING */
 
 .benefits {
     margin-right: 20px;
@@ -118,6 +135,9 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/* END BENEFIT ASIDE STYLING */
+
+/* FOOTER STYLING */
 
 .footer {
     padding: 30px;
@@ -129,3 +149,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/* END FOOTER STYLING */
