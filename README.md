@@ -3,6 +3,8 @@
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 ## Description
 Horisean Refreactor website.
+You can access the application through the following link: https://rhazama.github.io/horiseonRefactor-rh/
+
 
 ## Table of Contents
 - [Description](#description)
@@ -13,9 +15,10 @@ Horisean Refreactor website.
 - [Tests](#tests)
 - [Questions](#questions)
 ## Installation
-n/a
+You can access the application by clicking the link in the description!
+
 ## Usage
-You can checkout the application through the following link: https://rhazama.github.io/horiseonRefactor-rh/
+For users looking to find information about Horiseon Refractor.
 
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
