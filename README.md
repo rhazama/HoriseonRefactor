@@ -16,7 +16,7 @@ Horisean Refreactor website.
 n/a
 ## Usage
 You can checkout the application through the following link: https://github.com/rhazama/module1challenge/find/main
-<br />For users that would like to take notes and store them in one place
+
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 <br />
