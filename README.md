@@ -15,7 +15,7 @@ Horisean Refreactor website.
 ## Installation
 n/a
 ## Usage
-You can checkout the application through the following link: https://github.com/rhazama/module1challenge/find/main
+You can checkout the application through the following link: https://rhazama.github.io/horiseonRefactor-rh/
 
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
