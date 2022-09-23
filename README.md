@@ -31,6 +31,6 @@ n/a
 ## Questions
 Find me on GitHub: [rhazama](https://github.com/rhazama)<br />
 Send any questions you may have to: rhazama01@gmail.com<br />
-    
 
-![Screen Shot 2021-10-24 at 11 49 00 PM](https://user-images.githubusercontent.com/88352747/138647654-b35cd52c-f1cd-421c-8836-a34d0b799157.png)
+<img width="1792" alt="Screen Shot 2022-09-23 at 2 23 43 PM" src="https://user-images.githubusercontent.com/88352747/192058693-18b18783-94b0-4bc0-a411-b4d68317cfc8.png">
+
