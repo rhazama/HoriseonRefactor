@@ -1,6 +1,9 @@
 <h1 align="center">Horiseon Refractor</h1>
 
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
+
+<img width="1792" alt="Screen Shot 2022-09-23 at 2 23 43 PM" src="https://user-images.githubusercontent.com/88352747/192058693-18b18783-94b0-4bc0-a411-b4d68317cfc8.png">
+
 ## Description
 Horisean Refreactor website.
 You can access the application through the following link: https://rhazama.github.io/HoriseonRefactor/
@@ -32,5 +35,4 @@ n/a
 Find me on GitHub: [rhazama](https://github.com/rhazama)<br />
 Send any questions you may have to: rhazama01@gmail.com<br />
 
-<img width="1792" alt="Screen Shot 2022-09-23 at 2 23 43 PM" src="https://user-images.githubusercontent.com/88352747/192058693-18b18783-94b0-4bc0-a411-b4d68317cfc8.png">
 
