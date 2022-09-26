@@ -1,4 +1,4 @@
-<h1 align="center">Horiseon Refractor</h1>
+<h1 align="center">:desktop_computer: Horiseon Refractor :desktop_computer:</h1>
 
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 
